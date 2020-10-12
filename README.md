@@ -1,2 +1,0 @@
-# HectorEspejo.github.io
-Hello
